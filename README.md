@@ -15,8 +15,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vatsala Nema-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vatsala Nema/)](https://www.linkedin.com/in/Vatsala Nema/) 
 [![Twitter Badge](https://img.shields.io/badge/-@NemaVatsala-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NemaVatsala)](https://twitter.com/NemaVatsala) 
-[![Facebook Badge](https://img.shields.io/badge/--3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
-[![Instagram Badge](https://img.shields.io/badge/-@-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) 
+
 
 
 ### 📈 Github Stats:
@@ -32,6 +31,4 @@
 </a>
 <br>
 <br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NemaVatsala)](https://git.io/streak-stats)
 
