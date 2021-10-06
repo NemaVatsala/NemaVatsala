@@ -1,5 +1,3 @@
-# NemaVatsala
-
 # Hi ,I Am Vatsala Nema! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
