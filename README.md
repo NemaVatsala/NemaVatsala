@@ -3,7 +3,6 @@
 # Hi ,I Am Vatsala Nema! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-![](https://komarev.com/ghpvc/?username=NemaVatsala&color=blue)<br>
 
 ### Interested in Cognitive Computing, Human-Computer Interaction Computational Neuroscience.<br>
 
