@@ -2,7 +2,7 @@
 <br>
 
 
-### Interested in Cognitive Computing, Human-Computer Interaction Computational Neuroscience.<br>
+### Interested in Cognitive Computing, Human-Computer Interaction and Computational Neuroscience.<br>
 
 - 👨‍🏭 I’m currently pursuing **BS in Electrical Engineering and Computer sciences, IISER Bhopal** <br>
 - 🏫 I’m currently learning **Reinforcement Learning techniques, Adversarial AI, Computational Neuroscience** <br>
